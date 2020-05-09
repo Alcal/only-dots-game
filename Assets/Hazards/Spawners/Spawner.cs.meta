@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7a69bb9b2ef14462391b63f7c2c22f25
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - spawnable: {instanceID: 0}
+  - edgeA: {fileID: 1807904866050217842, guid: 9769cf288b41447d3b8f6b9bfeb92279, type: 3}
+  - edgeB: {fileID: 9178536173273796630, guid: 4d615fc248cb64e97977ac95d9e49ff8, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

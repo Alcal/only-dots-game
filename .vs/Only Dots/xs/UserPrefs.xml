@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{538CE3EB-F615-09E7-CDAA-06E8E893D5F0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PowerUp.cs">
+    <Files>
+      <File FileName="Assets/Hazards/NewMonoBehaviour.cs" Line="39" Column="13" />
+      <File FileName="Assets/Hazards/Spawners/Spawner.cs" Line="29" Column="67" />
+      <File FileName="Assets/Player/MovePlayer.cs" Line="7" Column="30" />
+      <File FileName="Assets/Ship.cs" Line="21" Column="1" />
+      <File FileName="Assets/PowerUp.cs" Line="18" Column="2" />
+      <File FileName="Assets/Player/BasicGun.cs" Line="18" Column="88" />
+      <File FileName="Assets/Player/PlayerStats.cs" Line="18" Column="27" />
+      <File FileName="Assets/Player/BasicBullet.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Only Dots" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Hazards" expanded="True">
+                <Node name="Spawners" expanded="True" />
+              </Node>
+              <Node name="Player" expanded="True" />
+              <Node name="UI" expanded="True" />
+              <Node name="Utils" expanded="True" />
+              <Node name="PowerUp.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7bdc687f-3489-4a57-a433-44dceaee0c5b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
